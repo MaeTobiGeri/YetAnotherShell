@@ -1,4 +1,4 @@
-# Yash - Just Another Shell
+# Yash - Yet Another Shell
 
 Yash is a lightweight, Unix-like shell implemented in C. 
 
